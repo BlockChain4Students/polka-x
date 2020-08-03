@@ -1,0 +1,15 @@
+federations/
+scenarios/
+tests/
+
+fabric/api
+fabric/artifacts
+fabric/logs
+fabric/contracts
+
+quorum/api
+quorum/bin
+quorum/platform
+quorum/contracts
+
+corda/workflows/build/test-results
